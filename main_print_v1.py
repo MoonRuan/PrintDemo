@@ -1,5 +1,5 @@
 # 변수 선언
-name = "Alice"
+name = "수정"
 age = 25
 score = 95.5
 
