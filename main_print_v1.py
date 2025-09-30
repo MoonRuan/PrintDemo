@@ -4,7 +4,7 @@ age = 25
 score = 95.5
 
 # 1. 기본 출력
-print("Hello, Python!")
+print("Hello, Python!!")
 
 # 2. 여러 값 출력 (콤마로 구분 - 자동 띄어쓰기)
 print("Name:", name, "Age:", age, "Score:", score)
